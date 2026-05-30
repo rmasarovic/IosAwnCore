@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 public class BadgeManager : AwesomeLifeCycleEventListener {
     let TAG:String = "BadgeManager"

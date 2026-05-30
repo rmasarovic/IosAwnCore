@@ -6,6 +6,8 @@
 //
 
 import Foundation
+import UIKit
+import UserNotifications
 
 @available(iOS 10.0, *)
 public class NotificationBuilder {
